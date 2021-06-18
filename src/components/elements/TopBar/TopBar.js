@@ -75,7 +75,7 @@ const TopBar = (props) => {
 
   return (
     <Grid item xs={12} className={classes.display}>
-      <img style={{height: '85px'}} src={logo}/>
+      <img style={{height: '85px'}} src={logo} alt="logo"/>
       <Grid style={{width: '100%'}} className={classes.rightObject}>
         <CssTextField
           label="Nama Ikan"
