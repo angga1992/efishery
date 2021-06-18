@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# efishery
+clone repository use git clone https://github.com/angga1992/efishery.git
+
+cd efishery
+
+npm install
+
+npm start
+
+Open http://localhost:3000 in browser
+
+done
+>>>>>>> 226de5be041e939c74d54feb76e26d82dd80d1cf
